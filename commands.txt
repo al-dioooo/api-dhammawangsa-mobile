@@ -1,0 +1,5 @@
+php artisan make:model ServiceTypeGroup -rRcm
+php artisan make:model ServiceType -rRcm
+php artisan make:model Service -rRcm
+php artisan make:model Transaction -rRcm
+php artisan make:model TransactionPayment -rRcm
